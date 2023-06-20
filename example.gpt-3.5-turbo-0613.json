@@ -1,0 +1,14 @@
+[
+  {
+    "role": "system",
+    "content": "Help the user"
+  },
+  {
+    "role": "user",
+    "content": "Write a poem"
+  },
+  {
+    "role": "assistant",
+    "content": "In the quiet of the night, I sit and ponder,\nWhere my mind begins to wander.\nThrough the pages of my thoughts,\nA symphony of words, each one fraught.\n\nI dip my pen in the ink of my soul,\nAnd watch as the verses begin to unfold.\nWith each stroke, the paper comes alive,\nA testament to the stories inside.\n\nA rhythm dances across the page,\nWeaving phrases in a harmonious stage.\nThe words, like music, flow and sway,\nAs emotions in my heart find their way.\n\nIn the depths of darkness, a flicker of light,\nA poem is born, a beacon shining bright.\nIt speaks of love, of pain, of dreams,\nOf life's complexities and what it means.\n\nFrom mountains high to oceans deep,\nIn poetic realms, secrets we keep.\nThrough metaphors and imagery, we reveal,\nThe truths that our hearts often conceal.\n\nSo let the words spill across the page,\nEvolving with each line, like a sacred sage.\nMay they touch your soul and set it free,\nAnd inspire you to be all you can be.\n\nFor in this world of chaos and strife,\nPoetry is the balm that brings us life.\nSo let us embrace this art form divine,\nAnd find solace in the verses, for they are thine."
+  }
+]
